@@ -1,7 +1,7 @@
 import React from 'react'
 import './form.css'
 
-const imageform = ({onchanges ,onsubmit}) => {
+const Imageform = ({onchanges ,onsubmit}) => {
     return (
         <div>
 
@@ -24,4 +24,4 @@ const imageform = ({onchanges ,onsubmit}) => {
     )
 }
 
-export default imageform
+export default Imageform
